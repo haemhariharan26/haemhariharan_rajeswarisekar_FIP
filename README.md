@@ -9,3 +9,6 @@ Added psd and raw image files
 
 # Gallery.html & css page structure created
 code done for desktop view for gallery
+
+# Image placement and alignment done
+Images placed for the index.html page and some alignments for the desktop view has been done.
