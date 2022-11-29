@@ -12,3 +12,6 @@ code done for desktop view for gallery
 
 # Image placement and alignment done
 Images placed for the index.html page and some alignments for the desktop view has been done.
+
+# 9 IMAGES PLACED IN GALLERY
+added 9 images and 6 more left for placeholder

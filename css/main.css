@@ -577,9 +577,12 @@ li a {
 		min-width: 100%;
 		padding-top: 50%;
 		height: 580px;
+		color: #000;
 	}
 	.slide img {
-		height: 150%;
+		padding-top: 25%;
+		width: 1920px;
+		height: 580px;
 		width: auto;
 		position: absolute;
 		top: 0;
