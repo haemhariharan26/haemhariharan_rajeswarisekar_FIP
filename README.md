@@ -6,3 +6,6 @@ designed the structure for index.html and css
 
 # Created folder structure for Assets
 Added psd and raw image files
+
+# Gallery.html & css page structure created
+code done for desktop view for gallery
