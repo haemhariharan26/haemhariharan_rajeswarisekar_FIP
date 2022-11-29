@@ -7,7 +7,7 @@
 
 }
 .box-color {
-	color: #fff;
+	color: #f7f7f7;
 	background: #000;
 	text-align: center;
 	margin: 0;
@@ -116,9 +116,15 @@ you work on and the intended audience */
 	position: relative;
 }
 
+
+
 .testimonial h2 {
+	padding-top: 3%;
+	align-items: center;
 	font-size: 40px;
 	color: #000000;
+	text-align: center;
+	position: relative;
 }
 
 .grid-con {
@@ -161,7 +167,7 @@ you work on and the intended audience */
 
 
 #header-con {
-	background-color: #ddd;
+	background-color: #f7f7f7;
 	padding-top: 15px;
 	padding-bottom: 0px;
 }
@@ -209,7 +215,7 @@ you work on and the intended audience */
 .landing-page3 #hero-text h1 {
 	font-size: 50px;
 	margin-bottom: 10px;
-	color: #ffffff;
+	color: #f7f7f7;
 }
 
 #hero-text p {
@@ -266,7 +272,7 @@ you work on and the intended audience */
 }
 
 .product-box {
-	background-color: #ddd;
+	background-color: #f7f7f7;
 }
 
 .text-container {
@@ -370,9 +376,10 @@ you work on and the intended audience */
 }
 
 #footer-social {
-	grid-column: 11/-1;
+	grid-column: 18/-1;
 	/* Remove as content will dictate height */
 	height: 80px;
+	padding-left: 450px;
 }
 
 
