@@ -28,8 +28,12 @@ img {
 /*html selectors*/
 
 body {
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: 'Poppins', sans-serif;
 	font-size: 12px;
+}
+
+main {
+	align-items: center;
 }
 
 /* Remove underlines from links */
@@ -98,10 +102,11 @@ you work on and the intended audience, we may go as low as 320px */
 }
 
 #image-slider-con {
-	background-color: #dddddd;
+	background-color: #adacac;
 	/* Remove as content will dictate height */
-	height: 640px;
+	width: 388px;
 	position: relative;
+	
 }
 
 #image-slider-con h2 {
@@ -245,8 +250,27 @@ you work on and the intended audience, we may go as low as 320px */
   
   #hero-con {
 	  background-color: #aaaaaa;
-	  background: url(../images/dog-homepage-header.jpg);
+	  background: url(../images/dog-homepage-header-mobile.jpg);
+	  align-items: center;
+	  background-repeat: no-repeat;
 	  height: 458px;
+  }
+
+  #hero-con #hero-text {
+	position: relative;
+	padding: 4%;
+	padding-left: 7%;
+	background-color: rgba(0, 0, 0, 0.208);
+	height: 300px;
+  }
+
+  #hero-text h1  {
+	color: white;
+  }
+
+  #hero-text p  {
+	color: white;
+	padding-bottom: 4%;
   }
   
   input[type=text] {
