@@ -223,9 +223,10 @@ you work on and the intended audience, we may go as low as 320px */
   }
 
 #gallery h2 {
+	color: #b3212c;
 	text-align: center;
 	grid-column: 1/-1;
-	margin-top: 40px;
+	margin-top: 30px;
 	margin-bottom: 40px;
 }
 
@@ -421,7 +422,7 @@ you work on and the intended audience, we may go as low as 320px */
   }
   
   .box-text{
-	  background-color: #ddd;padding: 5px
+	  background-color: #ddd;
   }
   
   .img-logo-w{
