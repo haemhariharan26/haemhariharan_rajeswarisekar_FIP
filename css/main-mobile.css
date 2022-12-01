@@ -134,24 +134,32 @@ you work on and the intended audience, we may go as low as 320px */
 }
 
 #about-us-con h2 {
-	background-color: #ffffff;
 	text-align: center;
 	padding-top: 70px;
-	padding-bottom: 70px;
+	padding-bottom: 40px;
 	margin: 0;
 }
 
 #about-us-text-con {
-	background-color: #dddddd;
+	background-color: brown;
 }
 
 #about-us-text {
 	grid-column: 1/-1;
 	/* Remove as content will dictate height */
-	height: 580px;
-	margin-top: 70px;
+	height: 450px;
+	margin-top: 50px;
 	margin-bottom: 40px;
 }
+
+#about-us-text h1 {
+    color: aliceblue;
+}
+
+#about-us-text p {
+    padding-bottom: 4%;
+}
+
 
 .about-us-photo {
 	grid-column: 1/-1;
@@ -399,12 +407,12 @@ you work on and the intended audience, we may go as low as 320px */
   
   .carousel-text{
 	  font-size: 16px;
-						  margin-top: 82px;
-						  position: absolute;
-						  z-index: 2;
-						  color: #fff;
-						  padding: 16px;
-						  width: 349px;
+	  margin-top: 82px;
+      position: absolute;
+      z-index: 2;
+      color: #fff;
+      padding: 16px;
+      width: 349px;
   }
   
   .img-gallery-w{
