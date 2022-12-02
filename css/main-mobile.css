@@ -31,6 +31,7 @@ img {
 body {
 	font-family: 'Poppins', sans-serif;
 	font-size: 12px;
+	align-items: center;
 }
 
 main {
@@ -103,18 +104,15 @@ you work on and the intended audience, we may go as low as 320px */
 }
 
 #image-slider-con {
-	background-color: #adacac;
+	background-color: #ffffff;
 	/* Remove as content will dictate height */
 	width: 388px;
 	position: relative;
-	
 }
 
 #image-slider-con h2 {
-	background-color: #ffffff;
+	color: #000000;
 	text-align: center;
-	padding-top: 70px;
-	padding-bottom: 70px;
 	margin: 0;
 }
 
@@ -123,7 +121,7 @@ you work on and the intended audience, we may go as low as 320px */
 	left: 0;
 	font-size: 120px;
 	color:#fff;
-	top: 200px;
+	top: 50px;
 }
 
 #mobile-slider-right {
@@ -131,7 +129,7 @@ you work on and the intended audience, we may go as low as 320px */
 	right: 0;
 	font-size: 120px;
 	color:#fff;
-	top: 200px;
+	top: 50px;
 }
 
 #about-us-con h2 {
