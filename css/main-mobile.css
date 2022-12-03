@@ -185,7 +185,6 @@ you work on and the intended audience, we may go as low as 320px */
 	/* Remove as content will dictate height */
 	height:45px;
 	grid-column: 1/3;
-	background-color: #ddd;
 }
 
 
@@ -193,9 +192,8 @@ you work on and the intended audience, we may go as low as 320px */
 /* gallery page */
 
 #hero-gallery-con {
-	background-color: #aaaaaa;
-	background: url("https://via.placeholder.com/428x458");
-	height: 458px;
+	
+		height: 458px;
 }
 
 #hero-gallery-text {
@@ -290,8 +288,9 @@ you work on and the intended audience, we may go as low as 320px */
   }
   
   #contact-form {
+	  padding-top: 15%;
 	  grid-column: 1/-1;
-	  height: 264px;
+	  height: 380px;
   }
   #contact-text {
 	  grid-column: 1/-1;
@@ -396,14 +395,13 @@ you work on and the intended audience, we may go as low as 320px */
   
   #footer-con {
 	  height: 231px;
-	  background-color: #aaa;
+	  background-color: #F5F5F5;
   }
   
   #footer-newsletter {
 	  margin-top: 25px;
 	  height: 100px;
 	  grid-column: 1/-1;
-	  background-color: #ddd;
   }
   
   .carousel-text{

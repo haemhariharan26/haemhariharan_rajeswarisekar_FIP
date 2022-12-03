@@ -21,3 +21,6 @@ started creating mobile html and gallery
 
 # added coursebook in assets
 created folder for all the subjects
+
+# mobile view completed
+both the home and gallery mobile view completed
