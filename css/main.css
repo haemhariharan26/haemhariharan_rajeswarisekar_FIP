@@ -177,6 +177,11 @@ you work on and the intended audience */
 	top: 52px;
 }
 
+#header-box1 img {
+	margin-top: 11px;
+	width: 158px
+}
+
 #main-nav {
 	grid-column: 5/11;
 	/* Remove as content will dictate height */
@@ -442,7 +447,8 @@ you work on and the intended audience */
 
 
 #gallery-controls {
-    
+    position: absolute;top: 88%;
+	left: 82%;
 	display: flex;
 	justify-content: center;
 	align-items: center;
