@@ -187,6 +187,7 @@ you work on and the intended audience */
 	grid-column: 12/12;
 	/* Remove as content will dictate height */
 	height: 80px;
+	padding-top: 18px;
 }
 
 /* Specific to index page desktop  */
@@ -206,6 +207,8 @@ you work on and the intended audience */
 	height: 582px;
 }
 
+
+
 #hero-text h1 {
 	font-size: 50px;
 	margin-bottom: 10px;
@@ -220,6 +223,7 @@ you work on and the intended audience */
 #hero-text p {
 	padding-right: 110px;
 	margin-bottom: 30px;
+	font-size: 16px;
 }
 
 #hero-text2 {
@@ -242,6 +246,7 @@ you work on and the intended audience */
 #hero-text2 p {
 	padding-right: 110px;
 	margin-bottom: 30px;
+	font-size: 16px;
 }
 #hero-image {
 	grid-column: 8/-1;
@@ -297,7 +302,7 @@ you work on and the intended audience */
 }
 
 .text-container {
-    background-color: #b3212c;
+	background-color: #f7f7f7;
     position: relative;
     margin: 0%;
     top: -7%;
@@ -313,6 +318,7 @@ you work on and the intended audience */
 	margin-left: 4%;
 	margin-right: 4%;
 	padding-bottom: 2%;
+	text-align: justify;
 }
 
 #about-con {
@@ -346,6 +352,7 @@ you work on and the intended audience */
 	grid-column: 1/10;
 	/* Remove as content will dictate height */
 	height: 700px;
+	height: 100px;
 }
 
 #contact-form label {
@@ -359,11 +366,19 @@ you work on and the intended audience */
 #contact-form {
 	grid-column: 5/-1;
 	/* Remove as content will dictate height */
-	height: 700px;
 	width: 400px;
+	height: 322px;
+}
+
+.text-area {
+	width: 100%;
 }
 
 /*Common page elements  */
+
+#footer {
+	grid-template-columns: repeat(12, 71px);
+}
 
 #footer-con {
 	background-color: #f7f7f7;
@@ -377,11 +392,15 @@ you work on and the intended audience */
 	height: 80px;
 }
 
+#footer-logo img {
+	margin-top: 11px;width: 186px;
+}
+
 #footer-nav {
 	grid-column: 3/-1;
 	/* Remove as content will dictate height */
 	height: 80px;
-	margin-bottom: 100px;
+	margin-bottom: 0px;
 }
 
 #footer-newsletter1 {
@@ -503,6 +522,8 @@ html, body {
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
+	padding: 13px 31px;
+	margin: 8px 2px;
     }
 
 .button2 {
