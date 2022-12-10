@@ -1,23 +1,24 @@
-# haemhariharan_rajeswarisekar_FIP
-index.html and css design done for desktop view page 1
+# FINAL INTEGRATED PROJECT
 
-# Index html and css file completed
-designed the structure for index.html and css
+Final Integrated Project by R S Haem Hariharan.
+Theme: Pet Care
 
-# Created folder structure for Assets
-Added psd and raw image files
+## Usage
 
-# Gallery.html & css page structure created
-code done for desktop view for gallery
+There are 2 pages for Website and 2 pages for Mobile with its proper CSS related.
 
-# Image placement and alignment done
-Images placed for the index.html page and some alignments for the desktop view has been done.
+## Contributing
 
-# 9 IMAGES PLACED IN GALLERY
-added 9 images and 6 more left for placeholder
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
 
-# gallery-mobile.html and css created
-started creating mobile html and gallery
+## Credits
 
-# added coursebook in assets
-created folder for all the subjects
+* R S Haem Hariharan
+
+## License
+
+MIT
